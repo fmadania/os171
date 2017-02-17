@@ -1,0 +1,2 @@
+tutorial to make file, delete it, write a text with vi, vim, nano editor 
+and push and pull the repository
